@@ -1,0 +1,2 @@
+notes for git practice
+practice add, commit and log
